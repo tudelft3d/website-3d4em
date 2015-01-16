@@ -3,8 +3,9 @@ title: 3D4EM
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   for the 3D4EM project
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://3d4em.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://3d4em.github.io" # the base hostname & protocol for your site
+url: "http://3d4em.nl" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
