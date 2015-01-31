@@ -4,6 +4,8 @@ title: Partners
 permalink: /partners/
 ---
 
+## Partners
+
 <div class="row">
 {% for p in site.data.partners %}
   <div class="col-xs-4 col-md-2">
@@ -38,7 +40,7 @@ permalink: /partners/
         <td style="text-align: left">{{ p.org }}</td>
         <td style="text-align: left">{{ p.email }}</td>
       {% if p.url %}
-        <td style="text-align: left">{{ p.url }}</td>
+        <td style="text-align: left"><a href="{{ p.url }}"><i class="fa fa-external-link"></i></a></td>
       {% else %}
         <td style="text-align: left"></td>
       {% endif %}
