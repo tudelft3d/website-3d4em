@@ -5,45 +5,46 @@ permalink: /partners/
 ---
 
 <div class="row">
-  <div class="col-xs-6 col-md-3">
-    <a href="http://www.stw.nl" class="thumbnail">
-      <img src="/img/partners/stw.png" alt="">
+{% for p in site.data.partners %}
+  <div class="col-xs-4 col-md-2">
+    <a href="{{ p.url }}" class="thumbnail">
+      <img src="{{ "/img/partners/" | append: p.img | prepend: site.baseurl }}" alt="">
     </a>
   </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="http://www.tudelft.nl" class="thumbnail">
-      <img src="/img/partners/tud.png" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="http://www.vu.nl" class="thumbnail">
-      <img src="/img/partners/vu.png" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="http://www.utwente.nl" class="thumbnail">
-      <img src="/img/partners/utwente.png" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="http://www.kadaster.nl" class="thumbnail">
-      <img src="/img/partners/kadaster.png" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="http://www.geodan.nl" class="thumbnail">
-      <img src="/img/partners/geodan.png" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="http://www.rotterdam.nl" class="thumbnail">
-      <img src="/img/partners/rotterdam.jpg" alt="">
-    </a>
-  </div>
-  <div class="col-xs-6 col-md-3">
-    <a href="http://www.esri.nl" class="thumbnail">
-      <img src="/img/partners/esri.jpg" alt="">
-    </a>
-  </div>
-
+{% endfor %}
 </div>
+
+- - - 
+
+## Contacts
+
+<div class="table-responsive">
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th style="text-align: left">Name</th>
+        <th style="text-align: left"></th>
+        <th style="text-align: left">Organisation</th>
+        <th style="text-align: left">email</th>
+        <th style="text-align: left">Webpage</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% assign peoples = site.data.people | sort:"surname"  %}
+    {% for p in peoples %}
+      <tr>
+        <td style="text-align: left">{{ p.surname }}</td>
+        <td style="text-align: left">{{ p.name }}</td>
+        <td style="text-align: left">{{ p.org }}</td>
+        <td style="text-align: left">{{ p.email }}</td>
+      {% if p.url %}
+        <td style="text-align: left">{{ p.url }}</td>
+      {% else %}
+        <td style="text-align: left"></td>
+      {% endif %}
+      </tr>
+    {% endfor %}
+    </tbody>  
+  </table>
+</div>
+
