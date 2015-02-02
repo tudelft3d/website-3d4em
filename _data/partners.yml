@@ -1,0 +1,61 @@
+
+- name: TU Delft
+  url:  http://www.tudelft.nl
+  img:  tud.png
+
+- name: Vrije Universiteit Amsterdam
+  url:  http://www.vu.nl
+  img:  vu.png
+
+- name: Universiteit Twente
+  url:  http://www.utwente.nl
+  img:  utwente.png
+
+- name: STW
+  url:  http://www.stw.nl
+  img:  stw.png
+
+- name: esri Nederland
+  url:  http://www.esri.nl
+  img:  esri.jpg
+
+- name: DGMR
+  url:  http://www.dgmr.nl
+  img:  dgmr.png
+
+- name: Kadaster
+  url:  http://www.kadaster.nl
+  img:  kadaster.png
+
+- name: netherlands eScience center
+  url:  https://www.esciencecenter.nl
+  img:  escience.jpg
+
+- name: Geonovum
+  url:  http://www.Geonovum.nl
+  img:  geonovum.png
+
+- name: Hoogheemraadschap Hollands Noorderkwartier 
+  url:  https://www.hhnk.nl
+  img:  hhnk.png
+
+- name: Gemeente Rotterdam
+  url:  http://www.rotterdam.nl
+  img:  rotterdam.jpg
+
+- name: Gemeente Den Haag
+  url:  http://www.denhaag.nl
+  img:  denhaag.png
+
+- name: Rijkswaterstaat
+  url:  http://www.rws.nl
+  img:  rws.png
+
+- name: Nelen & Schuurmans
+  url:  https://www.nelen-schuurmans.nl
+  img:  nelen-schuurmans.png
+
+- name: Geodan
+  url:  http://www.geodan.nl
+  img:  geodan.png
+
