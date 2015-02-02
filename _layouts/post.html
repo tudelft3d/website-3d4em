@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="container">
 
-  <h1>{{ page.title }}<br><span>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} (from: {{ page.author }}){% endif %}</span></h1>
+  <h1>{{ page.title }}<br><small/>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} (from: {{ page.author }}){% endif %}</small></h1>
 
   {{ content }}
 

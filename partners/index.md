@@ -4,7 +4,6 @@ title: Partners
 permalink: /partners/
 ---
 
-## Partners
 
 <div class="row">
 {% for p in site.data.partners %}
@@ -18,7 +17,7 @@ permalink: /partners/
 
 - - - 
 
-## Contacts
+# Contacts
 
 <div class="table-responsive">
   <table class="table table-striped">

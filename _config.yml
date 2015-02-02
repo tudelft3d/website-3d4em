@@ -16,4 +16,4 @@ kramdown:
   hard_wrap:      false
   toc_levels:     2..2
 
-
+permalink:            /:categories/:title/
