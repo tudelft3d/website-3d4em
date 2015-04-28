@@ -54,17 +54,37 @@
   email:   ben.bruns@kadaster.nl
   # url:  
 
+- surname: Altena
+  name:    Vincent 
+  org:     Kadaster
+  email:   vincent.altenavan@kadaster.nl
+  # url:  
+
 - surname: Steenbruggen
   name:    John 
   org:     Rijkswaterstaat
   email:   john.steenbruggen@rws.nl
   # url:  
 
+- surname: Onselen
+  name:    Kyra 
+  org:     Rijkswaterstaat
+  email:   kyra.van.onselen@rws.nl
+  # url:  
+
+
 - surname: Schevers
   name:    Hans 
   org:     Geodan
   email:   hans.schevers@geodan.nl
   # url:  
+
+- surname: Fruijtier
+  name:    Steven
+  org:     Geodan
+  email:   steven.fruijtier@geodan.nl
+  # url:  
+
 
 - surname: Van Winden
   name:    Jeroen 
@@ -76,7 +96,19 @@
   name:    Wytze 
   org:     Nelen & Schuurmans
   email:   wytze.schuurmans@nelen-schuurmans.nl
+  # url: 
+
+- surname: van Kalleveen
+  name:    Erik
+  org:     Nelen & Schuurmans
+  email:   erik.vankalleveen@nelen-schuurmans.nl
   # url:  
+
+- surname: van Schrojenstein
+  name:    Jonas
+  org:     Nelen & Schuurmans
+  email:   jonas.vanschrojenstein@nelen-schuurmans.nl
+  # url: 
 
 - surname: Keijsper
   name:    Maarten 
@@ -90,9 +122,20 @@
   email:   la.smit@rotterdam.nl
   # url:  
 
+- surname: Seinstra
+  name:    Frank 
+  org:     eScience
+  email:   f.seinstra@esciencecenter.nl
+  # url:  
+
 - surname: Penninga
   name:    Friso 
   org:     Gemeente Den Haag
   email:   friso.penninga@denhaag.nl
   # url:  
 
+- surname: Erinkveld
+  name:    Timo 
+  org:     Gemeente Den Haag
+  email:   timo.erinkveld@denhaag.nl
+  # url:  
