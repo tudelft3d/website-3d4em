@@ -6,8 +6,22 @@ permalink: /meetings/
 
 ## 2015-01-14 -- Kick-off meeting -- Rotterdam
 
-  * Overview presentation (Jantien Stoter)
-  * Research line 1 (Sander Oude Elberink)
-  * Research line 2 (Hugo Ledoux)
-  * Research line 3 (Henk Scholten)
-  
+<div class="row">
+{% for i in site.data.20150114 %}
+  <div class="col-xs-12 col-md-4">
+    <div class="thumbnail">
+      {{ i.link }}
+      <div class="caption">
+        <h4>{{ i.title }}
+        <br />
+        <small>{{ i.name }}</small>
+        </h4>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+
+
+
