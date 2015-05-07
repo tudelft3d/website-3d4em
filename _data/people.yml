@@ -96,6 +96,12 @@
   email:   jvanwinden@esri.nl
   # url:  
 
+- surname: van der Vaart
+  name:    Niels 
+  org:     esri Nederland
+  email:   nvandervaart@esri.nl
+  # url:  
+
 - surname: Schuurmans
   name:    Wytze 
   org:     Nelen & Schuurmans
@@ -126,11 +132,24 @@
   email:   la.smit@rotterdam.nl
   # url:  
 
+- surname: Hermans-van Ree
+  name:    Jane 
+  org:     Gemeente Rotterdam
+  email:   jm.hermansvanree@rotterdam.nl
+  # url:  
+
 - surname: Seinstra
   name:    Frank 
   org:     eScience
   email:   f.seinstra@esciencecenter.nl
   # url:  
+
+- surname: Attema
+  name:    Jisk
+  org:     eScience
+  email:   j.attema@esciencecenter.nl
+  # url:  
+
 
 - surname: Penninga
   name:    Friso 
