@@ -3,7 +3,7 @@ layout: page
 title: Research line 2 
 ---
 
-## Storage, update and dissemiation of massive 3D city objects
+## Storage, update and dissemination of massive 3D city objects
 
 <div class="row">
   <div class="col-sm-4 hidden-xs nopadding"><img class="img-responsive" src="{{ "img/1.png" | prepend: site.baseurl }}"></div>
