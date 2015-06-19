@@ -21,3 +21,7 @@ We will investigate, design and develop new data structures (eg based on [this](
 
 Furthermore, a prototype download service that generates 3D datasets tailored to specific applications will be explored, eg [WFS](http://www.opengeospatial.org/standards/wfs) for 3D objects and massive triangulations.
 
+## Contacts
+
+- Hugo Ledoux (<h.ledoux@tudelft.nl>)
+- Jantien Stoer (<j.e.stoter@tudelft.nl>)
