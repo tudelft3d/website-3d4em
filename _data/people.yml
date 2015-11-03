@@ -72,6 +72,13 @@
   email:   vincent.altenavan@kadaster.nl
   # url:  
 
+
+- surname: Post
+  name:    Marc 
+  org:     Kadaster
+  email:   Marc.Post@kadaster.nl
+  # url:  
+
 - surname: Steenbruggen
   name:    John 
   org:     Rijkswaterstaat
@@ -148,6 +155,12 @@
   name:    Jisk
   org:     eScience
   email:   j.attema@esciencecenter.nl
+  # url:  
+
+- surname: van Hage
+  name:    Willem
+  org:     eScience
+  email:   w.vanhage@esciencecenter.nl
   # url:  
 
 
