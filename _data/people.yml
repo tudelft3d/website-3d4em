@@ -133,6 +133,18 @@
   email:   A.Bartels@hhnk.nl
   # url:  
 
+- surname: Boogaard
+  name:    Marcel
+  org:     Hoogheemraadschap Hollands Noorderkwartier 
+  email:   M.Boomgaard@hhnk.nl
+  # url:
+
+- surname: Schmidt
+  name:    Richard
+  org:     DGMR 
+  email:   SD@DGMR.NL
+  # url:
+
 - surname: Smit
   name:    Louis 
   org:     Gemeente Rotterdam
@@ -175,3 +187,7 @@
   org:     Gemeente Den Haag
   email:   timo.erinkveld@denhaag.nl
   # url:  
+
+
+
+
