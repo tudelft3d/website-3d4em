@@ -23,5 +23,6 @@ Furthermore, a prototype download service that generates 3D datasets tailored to
 
 ## Contacts
 
-- Hugo Ledoux (<h.ledoux@tudelft.nl>)
-- Jantien Stoer (<j.e.stoter@tudelft.nl>)
+- [Kavisha](https://3d.bk.tudelft.nl/kavisha) (<k.kavisha@tudelft.nl>)
+- [Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux) (<h.ledoux@tudelft.nl>)
+- [Jantien Stoer](https://3d.bk.tudelft.nl/stoter) (<j.e.stoter@tudelft.nl>)
