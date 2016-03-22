@@ -12,6 +12,8 @@ url: "http://www.3d4em.nl" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
+future:   true
+
 kramdown:
   hard_wrap:      false
   toc_levels:     2..2
