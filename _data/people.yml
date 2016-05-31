@@ -130,19 +130,19 @@
 - surname: Bartels
   name:    Alex 
   org:     Hoogheemraadschap Hollands Noorderkwartier 
-  email:   A.Bartels@hhnk.nl
+  email:   a.bartels@hhnk.nl
   # url:  
 
 - surname: Boogaard
   name:    Marcel
   org:     Hoogheemraadschap Hollands Noorderkwartier 
-  email:   M.Boomgaard@hhnk.nl
+  email:   m.boomgaard@hhnk.nl
   # url:
 
 - surname: Schmidt
   name:    Richard
   org:     DGMR 
-  email:   SD@DGMR.NL
+  email:   sd@dgmr.nl
   # url:
 
 - surname: Smit
@@ -175,11 +175,10 @@
   email:   w.vanhage@esciencecenter.nl
   # url:  
 
-
 - surname: Penninga
   name:    Friso 
-  org:     Gemeente Den Haag
-  email:   friso.penninga@denhaag.nl
+  org:     Geonovum
+  email:   f.penninga@geonovum.nl
   # url:  
 
 - surname: Erinkveld
