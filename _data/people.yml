@@ -115,16 +115,16 @@
   email:   wytze.schuurmans@nelen-schuurmans.nl
   # url: 
 
-- surname: Van Kalleveen
-  name:    Erik
+- surname: Verbree
+  name:    Jan-Maarten
   org:     Nelen & Schuurmans
-  email:   erik.vankalleveen@nelen-schuurmans.nl
+  email:   janmaarten.verbree@nelen-schuurmans.nl
   # url:  
 
-- surname: Van Schrojenstein
-  name:    Jonas
+- surname: van Esse
+  name:    Wouter
   org:     Nelen & Schuurmans
-  email:   jonas.vanschrojenstein@nelen-schuurmans.nl
+  email:   wouter.vanesse@nelen-schuurmans.nl
   # url: 
 
 - surname: Bartels
@@ -137,6 +137,12 @@
   name:    Marcel
   org:     Hoogheemraadschap Hollands Noorderkwartier 
   email:   m.boomgaard@hhnk.nl
+  # url:
+
+- surname: De Landmeter
+  name:    Raymond
+  org:     Hoogheemraadschap Hollands Noorderkwartier 
+  email:   R.deLandmeter@hhnk.nl
   # url:
 
 - surname: Schmidt
@@ -187,6 +193,10 @@
   email:   timo.erinkveld@denhaag.nl
   # url:  
 
-
+- surname: Schilleman
+  name:    Jeroen
+  org:     Gemeente Den Haag
+  email:   jeroen.schilleman@denhaag.nl
+  # url:  
 
 
