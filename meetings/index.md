@@ -7,7 +7,7 @@ permalink: /meetings/
 ## 2016-05-31 -- 2nd Users' meeting -- Amsterdam
 
 <div class="row">
-{% for i in site.data.20160531 %}
+{% for i in site.data.m20160531 %}
   <div class="col-xs-12 col-md-4">
     <div class="thumbnail">
       {{ i.link }}
@@ -27,7 +27,7 @@ permalink: /meetings/
 ## 2015-11-11 -- 1st Users' meeting -- Utrecht
 
 <div class="row">
-{% for i in site.data.20151111 %}
+{% for i in site.data.m20151111 %}
   <div class="col-xs-12 col-md-4">
     <div class="thumbnail">
       {{ i.link }}
@@ -48,7 +48,7 @@ permalink: /meetings/
 ## 2015-01-14 -- Kick-off meeting -- Rotterdam
 
 <div class="row">
-{% for i in site.data.20150114 %}
+{% for i in site.data.m20150114 %}
   <div class="col-xs-12 col-md-4">
     <div class="thumbnail">
       {{ i.link }}
