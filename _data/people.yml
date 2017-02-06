@@ -5,12 +5,6 @@
   email:   s.hettinga@vu.nl
   # url:     http://3dgeoinfo.bk.tudelft.nl/jstoter
 
-- surname: Xiong
-  name:    Biao 
-  org:     Universiteit Twente
-  email:   b.xiong@utwente.nl
-  # url:     http://3dgeoinfo.bk.tudelft.nl/jstoter
-
 - surname: Stoter
   name:    Jantien 
   org:     TU Delft
@@ -46,13 +40,7 @@
   org:     Universiteit Twente
   email:   george.vosselman@utwente.nl
   # url:  
-
-
-- surname: Ivanova 
-  name:    Milena 
-  org:     netherlands eScience center
-  email:   m.ivanova@esciencecenter.nl
-  # url:  
+  
 
 - surname: Van de Velde 
   name:    Rob 
@@ -65,13 +53,6 @@
   org:     Kadaster
   email:   ben.bruns@kadaster.nl
   # url:  
-
-- surname: Altena
-  name:    Vincent 
-  org:     Kadaster
-  email:   vincent.altenavan@kadaster.nl
-  # url:  
-
 
 - surname: Post
   name:    Marc 
@@ -97,6 +78,18 @@
   email:   steven.fruijtier@geodan.nl
   # url:  
 
+- surname: van Tilburg
+  name:    Tom
+  org:     Geodan
+  email:   tom.van.tilburg@geodan.nl
+  # url: 
+
+- surname: Dias
+  name:    Eduardo
+  org:     Geodan
+  email:   eduardo.dias@geodan.nl
+  # url: 
+  
 - surname: Van Winden
   name:    Jeroen 
   org:     esri Nederland
@@ -108,12 +101,6 @@
   org:     esri Nederland
   email:   nvandervaart@esri.nl
   # url:  
-
-- surname: Schuurmans
-  name:    Wytze 
-  org:     Nelen & Schuurmans
-  email:   wytze.schuurmans@nelen-schuurmans.nl
-  # url: 
 
 - surname: Verbree
   name:    Jan-Maarten
@@ -151,6 +138,12 @@
   email:   sd@dgmr.nl
   # url:
 
+- surname: Verheij
+  name:    Theo
+  org:     DGMR 
+  email:   ve@dgmr.nl
+  # url:
+
 - surname: Smit
   name:    Louis 
   org:     Gemeente Rotterdam
@@ -161,6 +154,12 @@
   name:    Jane 
   org:     Gemeente Rotterdam
   email:   jm.hermansvanree@rotterdam.nl
+  # url:  
+
+- surname: Boelhouwer
+  name:    Michiel
+  org:     Gemeente Rotterdam
+  email:   m.boelhouwer@Rotterdam.nl
   # url:  
 
 - surname: Seinstra
@@ -187,16 +186,9 @@
   email:   f.penninga@geonovum.nl
   # url:  
 
-- surname: Erinkveld
-  name:    Timo 
-  org:     Gemeente Den Haag
-  email:   timo.erinkveld@denhaag.nl
-  # url:  
-
 - surname: Schilleman
   name:    Jeroen
   org:     Gemeente Den Haag
   email:   jeroen.schilleman@denhaag.nl
   # url:  
-
 
