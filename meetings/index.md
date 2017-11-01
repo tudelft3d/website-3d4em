@@ -4,7 +4,7 @@ title: Meetings
 permalink: /meetings/
 ---
 
-## 2016-06-21 -- 4th Users' meeting -- Den Haag
+## 2017-06-21 -- 4th Users' meeting -- Den Haag
 
 <div class="row">
 {% for i in site.data.m20170621 %}
