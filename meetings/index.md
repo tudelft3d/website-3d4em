@@ -23,6 +23,24 @@ permalink: /meetings/
 </div>
 
 
+## 2016-11-16 -- 3nd Users' meeting -- Amersfoort
+
+<div class="row">
+{% for i in site.data.m20161116 %}
+  <div class="col-xs-12 col-md-4">
+    <div class="thumbnail">
+      {{ i.link }}
+      <div class="caption">
+        <h4>{{ i.title }}
+        <br />
+        <small>{{ i.name }}</small>
+        </h4>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+</div>
+
 ## 2016-05-31 -- 2nd Users' meeting -- Amsterdam
 
 <div class="row">
