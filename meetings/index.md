@@ -4,7 +4,7 @@ title: Meetings
 permalink: /meetings/
 ---
 
-## 2017-06-21 -- 5th Users' meeting -- Geonovum
+## 2018-01-24 -- 5th Users' meeting -- Geonovum
 
 <div class="row">
 {% for i in site.data.m20180124 %}
